@@ -190,28 +190,6 @@ The project combines structured human scoring with Pandas-based calculations and
 
 ---
 
-## Project Structure
-
-```text
-AI-Safety-LLM-Evaluation/
-│
-├── data/
-│   └── AI_Safety_LLM_Evaluation_Dataset.csv
-│
-├── notebooks/
-│   └── AI_Safety_LLM_Evaluation.ipynb
-│
-├── analysis/
-│   └── ...
-│
-├── visualizations/
-│   └── ...
-│
-├── report/
-│   └── AI_Safety_LLM_Evaluation_Report.pdf
-│
-└── README.md
-```
 
 ---
 
